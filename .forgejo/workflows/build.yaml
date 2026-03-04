@@ -4,5 +4,6 @@ jobs:
     runs-on: docker
     steps:
       - uses: actions/checkout@v4
+      - run: npm install @11ty/eleventy
       - run: npx @11ty/eleventy
       - run: echo Build complete!
