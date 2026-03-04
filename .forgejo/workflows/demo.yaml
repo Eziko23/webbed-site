@@ -1,7 +1,8 @@
 on: [push]
 jobs:
   test:
-    runs-on: ubuntu-latest\
+    runs-on: docker
     steps:
+      - run: echo All good!
       - uses: actions/checkout@v4
-      - run: npx @11ty/eleventy
+      - run: ls -la
