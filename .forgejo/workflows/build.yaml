@@ -8,8 +8,8 @@ jobs:
       - run: npx @11ty/eleventy
       - run: echo Build complete! Deploying...
       - uses: https://codeberg.org/git-pages/action@v2
-          with:
-            site: "https://${{ forge.repository_owner }}.pages.gay/"
-            token: ${{ forge.token }}
-            source: _site/
+        with:
+          site: "https://${{ forge.repository_owner }}.pages.gay/"
+          token: ${{ forge.token }}
+          source: _site/
       - run: Deployment Completed!
