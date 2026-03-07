@@ -15,7 +15,7 @@ currently learning css and js :3
 
 - [about me](/pages/about)
 - [blog posts (now working!)](/blog)
-- [links/socials](/lib.htm)
+- [links/socials](/pages/lib)
 - [interests](/pages/interests)
 - [dni list](/pages/dni)
 
