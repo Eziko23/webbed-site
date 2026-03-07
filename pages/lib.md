@@ -1,7 +1,6 @@
 ---
 title: links
 layout: default.njk
-permalink: /lib.htm
 ---
 
 # links
