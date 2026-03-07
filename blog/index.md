@@ -1,7 +1,6 @@
 ---
 layout: blog.njk
 title: blog
-permalink: /blog
 ---
 
 # welcome to my blog!
