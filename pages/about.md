@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: welcome
+title: about me
 permalink: /about
 ---
 
