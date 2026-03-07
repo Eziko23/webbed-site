@@ -9,7 +9,7 @@ jobs:
       - run: echo Build complete! Deploying...
 
       - name: deploy2nekoweb
-        uses: indiefellas/deploy2nekoweb@main
+        uses: https://github.com/indiefellas/deploy2nekoweb@main
         with:
           nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
           nekoweb-domain: 'funkylevi.nekoweb.org'
