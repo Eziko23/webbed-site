@@ -1,6 +1,9 @@
 ---
 layout: default.njk
 title: first woot
+tags:
+    post
+    woot
 ---
 
 # first woot!
