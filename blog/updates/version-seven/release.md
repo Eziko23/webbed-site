@@ -2,8 +2,8 @@
 layout: default.njk
 title: version seven released!
 tags:
-    post
-    update
+    - post
+    - update
 ---
 
 # version seven released!
