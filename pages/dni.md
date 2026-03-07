@@ -1,7 +1,7 @@
 ---
 layout: default.njk
 title: dont talk to me
-permalink: /dni
+permalink: /dni.htm
 ---
 
 # dont talk to me.
