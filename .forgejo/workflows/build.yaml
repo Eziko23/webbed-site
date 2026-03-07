@@ -15,4 +15,4 @@ jobs:
           nekoweb-domain: 'funkylevi.nekoweb.org'
           nekoweb-username: 'funkylevi'
           directory: '_site'
-      - run: Deployment Completed!
+      - run: echo Deployment Completed!
