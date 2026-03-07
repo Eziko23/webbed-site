@@ -1,5 +1,5 @@
 ---
-title: about me!
+title: interests
 layout: default.njk
 ---
 
