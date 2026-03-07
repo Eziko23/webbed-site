@@ -13,11 +13,11 @@ currently learning css and js :3
 
 ## table of contents
 
-- [about me](/about)
+- [about me](/pages/about)
 - [blog posts (now working!)](/blog)
-- [links/socials](/lib)
+- [links/socials](/lib.htm)
 - [interests](/pages/interests)
-- [dni list](/dni)
+- [dni list](/pages/dni)
 
 ---
 
