@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: welcome
+permalink: /dni
 ---
 
 # dont talk to me.
