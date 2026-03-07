@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: what are wooters?
+date: 2026-03-03
 tags:
     - post
     - woot
