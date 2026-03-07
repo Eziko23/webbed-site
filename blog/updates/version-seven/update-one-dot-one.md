@@ -2,8 +2,8 @@
 layout: default.njk
 title: added blog
 tags:
-    post
-    update
+    - post
+    - update
 ---
 
 # added blog page!

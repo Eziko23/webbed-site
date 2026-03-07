@@ -2,8 +2,8 @@
 layout: default.njk
 title: git
 tags:
-    post
-    update
+    - post
+    - update
 ---
 
 # finally set up the site's git repo!
