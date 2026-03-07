@@ -1,6 +1,9 @@
 ---
 layout: default.njk
 title: what are wooters?
+tags:
+    post
+    woot
 ---
 
 # what are wooters?
