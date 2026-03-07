@@ -7,9 +7,12 @@ jobs:
       - run: npm install @11ty/eleventy
       - run: npx @11ty/eleventy
       - run: echo Build complete! Deploying...
-      - uses: https://codeberg.org/git-pages/action@v2
+
+      - name: deploy2nekoweb
+        uses: indiefellas/deploy2nekoweb@main
         with:
-          site: "https://${{ forge.repository_owner }}.pages.gay/"
-          token: ${{ forge.token }}
-          source: _site/
+          nekoweb-api-key: ${{ secrets.NEKOWEB_API_KEY }}
+          nekoweb-domain: 'funkylevi.nekoweb.org'
+          nekoweb-username: 'funkylevi'
+          directory: '_site'
       - run: Deployment Completed!
