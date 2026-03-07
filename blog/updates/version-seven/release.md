@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: version seven released!
+date: 2026-02-24
 tags:
     - post
     - update
