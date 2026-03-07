@@ -4,11 +4,9 @@ jobs:
     runs-on: docker
     steps:
       - uses: actions/checkout@v4
-
-      - name: build site
-        run: npm install @11ty/eleventy
-        run: npx @11ty/eleventy
-        run: echo Build complete! Deploying...
+      - run: npm install @11ty/eleventy
+      - run: npx @11ty/eleventy
+      - run: echo Build complete! Deploying...
 
       - name: deploy2nekoweb
         uses: https://github.com/indiefellas/deploy2nekoweb@main
