@@ -4,4 +4,8 @@ layout: default.njk
 
 {{ content | safe }}
 
-{% include 'posts.njk' %}
+<ul>
+{%- for post in collections.post -%}
+  <li>{{ post.data.title }}</li>
+{%- endfor -%}
+</ul>
