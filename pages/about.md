@@ -1,7 +1,6 @@
 ---
 layout: default.njk
 title: about me
-permalink: /about.htm
 ---
 
 
