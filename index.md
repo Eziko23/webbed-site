@@ -13,7 +13,7 @@ currently learning css and js :3
 ## table of contents
 
 - [about me](/pages/about)
-- [blog posts (now working!)](/blog)
+- [blog posts](/503)
 - [links/socials](/pages/lib)
 - [interests](/pages/interests)
 - [dni list](/pages/dni)
