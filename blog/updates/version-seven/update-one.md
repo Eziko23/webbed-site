@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: git
+date: 2026-03-06
 tags:
     - post
     - update
