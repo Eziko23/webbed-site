@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: welcome
+title: dont talk to me
 permalink: /dni
 ---
 
