@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: about me
+permalink: /abt/
 ---
 
 
