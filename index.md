@@ -22,5 +22,4 @@ currently learning css and js :3
 
 ---
 
-[previous](https://fediring.net/previous?host=funkylevi.pages.dev) [[the fediring!]](https://fediring.net/) [next](https://fediring.net/next?host=funkylevi.pages.dev)  
-[previous]() [[SSGRing!]](https://jbc.lol/webrings/ssgring/) [next]()  
+[previous](https://jbc.lol/webrings/ssgring/redirect?slug=funkylevi&way=prev) [[SSGRing!]](https://jbc.lol/webrings/ssgring/) [next](https://jbc.lol/webrings/ssgring/redirect?slug=funkylevi&way=next)  
