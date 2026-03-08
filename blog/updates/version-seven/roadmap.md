@@ -2,6 +2,10 @@
 layout: default.njk
 title: roadmap
 permalink: /sitemap/
+tags:
+    - post
+    - update
+    - pinned
 ---
 
 # site roadmap!
