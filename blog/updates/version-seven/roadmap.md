@@ -20,4 +20,4 @@ just some stuff i want to add to my website
 - guestbook
 - post archive (sk, wfrn, bsky)
 - redirects to socials (/sk -> sharkey, /waf -> wafrn, /sky -> bsky, etc.)
-- fix blog (for real this time (like actually (hopefully :pray:)))
+- ~~fix blog (for real this time (like actually (hopefully :pray:)))~~ complete!
