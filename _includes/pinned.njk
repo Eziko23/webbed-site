@@ -1,0 +1,5 @@
+<ul>
+{%- for pinned in collections.pinned -%}
+  <li><a href="{{ pinned.url }}">{{ pinned.data.title }}</a></li>
+{%- endfor -%}
+</ul>
