@@ -5,6 +5,7 @@ date: 2026-02-24
 tags:
     - post
     - update
+    - pinned
 ---
 
 # version seven released!
