@@ -12,11 +12,13 @@ currently learning css and js :3
 
 ## table of contents
 
-- [about me](/abt)
-- [blog posts](/blog)
-- [links/socials](/lib)
-- [interests](/pages/interests)
-- [dni list](/dni)
+- [about me](/abt/)
+- [blog posts](/blog/)
+- [links/socials](/lib/)
+- [interests](/pages/interests/)
+- [dni list](/dni/)
+- [webrings](/pages/webrings/)
+- [button wall](/pages/buttons/)
 
 ---
 
