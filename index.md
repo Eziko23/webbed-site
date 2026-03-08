@@ -12,12 +12,13 @@ currently learning css and js :3
 
 ## table of contents
 
-- [about me](/pages/about)
-- [blog posts](/503)
-- [links/socials](/pages/lib)
+- [about me](/abt)
+- [blog posts](/blog)
+- [links/socials](/lib)
 - [interests](/pages/interests)
-- [dni list](/pages/dni)
+- [dni list](/dni)
 
 ---
 
-[previous](https://fediring.net/previous?host=funkylevi.pages.dev) [[the fediring!]](https://fediring.net/) [next](https://fediring.net/next?host=funkylevi.pages.dev)
+[previous](https://fediring.net/previous?host=funkylevi.pages.dev) [[the fediring!]](https://fediring.net/) [next](https://fediring.net/next?host=funkylevi.pages.dev)  
+[previous]() [[SSGRing!]](https://jbc.lol/webrings/ssgring/) [next]()  
