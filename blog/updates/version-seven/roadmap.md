@@ -6,7 +6,7 @@ permalink: /sitemap/
 
 # site roadmap!
 
-just some stuff id want to add to my website
+just some stuff i want to add to my website
 
 ## coming soon
 
