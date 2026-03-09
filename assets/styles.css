@@ -28,6 +28,7 @@ div {
     font-family: "JetBrains Mono", monospace;
     color: white;
     text-shadow: 0px 0px 6px #cdd6f4;
+    max-width: max-content
 }
 
 a:link {
