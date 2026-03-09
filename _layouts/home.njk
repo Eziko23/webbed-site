@@ -1,6 +1,13 @@
----
-layout: base.html
----
-<div>
-    {{ content | safe }}
-</div>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include 'head-tag.html' %}
+    </head>
+    <body>
+        <main>
+        	<div>
+        		{{ content | safe }}
+        	</div>
+        </main>
+    </body>
+</html>
