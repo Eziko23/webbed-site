@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 /* actual css */
-.main {
+main {
     /* Background/Border */
     background-color: rgba(30, 30, 46, 0.8);
     background-size: auto;
@@ -11,9 +11,13 @@
     border-width: 1px;
 
     padding: 10px 20px 10px;
+    /*
     margin: auto;
     width: 60%;
     height: auto;
+    */
+    display: grid;
+    place-items: center;
 }
 
 body {
