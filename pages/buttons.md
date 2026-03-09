@@ -9,7 +9,7 @@ lots of buttons and blinkies for things i like/use
 
 ## actual buttons
 
-![funkylevi.nekoweb.org](https://funkylevi.nekoweb.org/assets/button.gif) [![JuxGD](https://juxgd.codeberg.page/badges/jux.gif)](https://juxgd.codeberg.page/) [![Synth Download!](https://synth.download/assets/buttons/synth.download.svg)](https://synth.download)
+<img src="https://funkylevi.nekoweb.org/assets/button.gif" width="88" height="31"> [![JuxGD](https://juxgd.codeberg.page/badges/jux.gif)](https://juxgd.codeberg.page/) [![Synth Download!](https://synth.download/assets/buttons/synth.download.svg)](https://synth.download)
 
 ## blinkies
 
