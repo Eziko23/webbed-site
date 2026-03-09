@@ -18,6 +18,7 @@ main {
     */
     display: grid;
     place-items: center;
+    max-width: max-content
 }
 
 body {
