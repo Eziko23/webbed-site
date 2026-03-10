@@ -7,7 +7,7 @@ tags:
     - update
 ---
 
-# v7.1.2 - bugfixes
+# v7.1.1 - bugfixes
 
 just some bugfixes such as:
 - fixing css
