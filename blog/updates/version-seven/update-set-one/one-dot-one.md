@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: v7.1.2 - bugfixes
+title: v7.1.1 - bugfixes
 date: 2026-03-06
 tags:
     - post
