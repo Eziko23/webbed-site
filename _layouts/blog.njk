@@ -1,11 +1,26 @@
----
-layout: default.njk
----
-
-{{ content | safe }}
-
-<h2>pinned</h2>
-{% include 'blog/pinned.njk' %}
-
-<h2>all posts</h2>
-{% include 'blog/posts.njk' %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        {% include 'head-tag.html' %}
+    </head>
+    <body>
+        <main>
+        	<div class="window">
+                <div>
+              		{{ content | safe }}
+                </div>
+                <div>
+                    <h2>pinned</h2>
+                    {% include 'blog/pinned.njk' %}
+                </div>
+                <div>
+                    {% include 'footer.html' %}
+                </div>
+        	</div>
+        	<div class="window">
+                <h2>all posts</h2>
+                {% include 'blog/posts.njk' %}                
+            </div>
+        </main>
+    </body>
+</html>
