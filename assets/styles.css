@@ -8,7 +8,6 @@ main {
     background-size: auto;
     border-style: solid;
     border-color: linear-gradient(90deg,rgba(203, 166, 247, 1) 0%, rgba(179, 219, 224, 1) 50%, rgba(166, 247, 212, 1) 100%);
-;
     border-width: 3px;
 
     padding: 10px 20px 10px;
