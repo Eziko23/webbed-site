@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: git
+title: v7.1.0 - git
 date: 2026-03-06
 tags:
     - post
