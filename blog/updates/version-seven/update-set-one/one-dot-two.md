@@ -1,23 +1,13 @@
 ---
 layout: default.njk
-title: v7.1.2 - bugfixes
+title: v7.1.2 - git
 date: 2026-03-06
 tags:
     - post
     - update
 ---
 
-# v7.1.2 - bugfixes
+# finally set up the site's git repo!
 
-just some bugfixes such as:
-- fixing css
-- fixing links on home page
-- fixing blog home (maybe)
-- adding this update notif
-
-im also planning to add
-- an rss feed
-- some actual long blog posts
-- comments for blog posts and woots
-- button wall
-so yeah v7.2.0 soon(tm)
+ive *finally* set up the git repo for this site! took a while to get deployment working (i have no clue how to use forgejo actions) but got 11ty and deploy2nekoweb working!  
+the git repo is https://git.gay/funkylevi/pages if you want to see, but beware that i have no clue what im doing and will frequently be sending commits

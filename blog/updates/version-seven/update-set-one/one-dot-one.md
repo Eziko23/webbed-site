@@ -1,12 +1,23 @@
 ---
 layout: default.njk
-title: v7.1.1 - added blog
+title: v7.1.1 - bugfixes
 date: 2026-03-06
 tags:
     - post
     - update
 ---
 
-# added blog page!
+# v7.1.1 - bugfixes
 
-i fixed the blog (hopefully) and it should have a list of posts!
+just some bugfixes such as:
+- fixing css
+- fixing links on home page
+- fixing blog home (maybe)
+- adding this update notif
+
+im also planning to add
+- an rss feed
+- some actual long blog posts
+- comments for blog posts and woots
+- button wall
+so yeah v7.2.0 soon(tm)
