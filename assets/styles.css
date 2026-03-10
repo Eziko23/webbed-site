@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 /* actual css */
-main {
+.window {
     /* Background/Border */
     background-color: rgba(30, 30, 46, 0.8);
     border-style: solid;
