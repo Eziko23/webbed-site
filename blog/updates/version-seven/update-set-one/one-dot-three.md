@@ -1,6 +1,6 @@
 ---
 layout: default.njk
-title: added blog
+title: v7.1.3 - fixed blog
 date: 2026-03-07
 tags:
     - post
