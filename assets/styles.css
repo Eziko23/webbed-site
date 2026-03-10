@@ -5,7 +5,6 @@
 main {
     /* Background/Border */
     background-color: rgba(30, 30, 46, 0.8);
-    background-size: auto;
     border-style: solid;
     border-color: #cba6f7;
     border-width: 3px;
@@ -21,6 +20,7 @@ main {
 
 body {
     background-image: url("/assets/bg.png");
+    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
