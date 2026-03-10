@@ -2,6 +2,7 @@
 layout: default.njk
 title: roadmap
 permalink: /sitemap/
+eleventyExcludeFromCollections: ["post"]
 tags:
     - post
     - update
