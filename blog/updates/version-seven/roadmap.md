@@ -20,6 +20,6 @@ just some stuff i want to add to my website
 - ~~button wall~~ complete! (kind of)
 - guestbook
 - post archive (sk, wfrn, bsky)
-- redirects to socials (/sk -> sharkey, /waf -> wafrn, /sky -> bsky, etc.)
+- ~~redirects to socials (/sk -> sharkey, /waf -> wafrn, /sky -> bsky, etc.)~~ complete!
 - ~~fix blog (for real this time (like actually (hopefully :pray:)))~~ complete!
 - ~~center the div~~ complete!!!!!!!!!
