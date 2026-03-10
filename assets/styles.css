@@ -8,7 +8,7 @@ main {
     border-style: solid;
     border-color: #cba6f7;
     border-width: 3px;
-
+    backdrop-filter: blur(2px): 
     padding: 10px 20px 10px;
     /*
     margin: auto;
