@@ -1,1 +1,0 @@
-window.location.replace("http://deer.social/profile/ezi.yup.lol");
