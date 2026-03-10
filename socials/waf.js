@@ -1,0 +1,1 @@
+window.location.replace("http://app.wafrn.net/blog/funkylevi");
