@@ -5,16 +5,13 @@
   <title>W3Schools Home Page</title>
   <link>https://funkylevi.nekoweb.org/blog</link>
   <description>just setting up my wootrr</description>
+  {%- for post in collections.woot -%}
   <item>
-    <title></title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>{{ woot.data.title }}</title>
+    <link>{{ woot.url }}</link>
+    <description>{{ woot.description }}</description>
   </item>
-  <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
-  </item>
+{%- endfor -%}
 </channel>
 
 </rss>
