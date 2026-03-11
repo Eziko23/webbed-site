@@ -5,6 +5,7 @@ date: 2026-03-03
 tags:
     - post
     - woot
+description: what these are
 ---
 
 # what are wooters?
