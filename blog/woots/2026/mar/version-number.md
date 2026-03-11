@@ -5,6 +5,7 @@ date: 2026-03-10
 tags:
     - post
     - woot
+description: how versions work
 ---
 
 # how my vX.Y.Z system works
