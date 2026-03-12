@@ -3,7 +3,7 @@ layout: default.njk
 ---
 
 <ul>
-    {% for post in collection.all %}
+    {%- for post in collection.all -%}
     <li><a ref="{{ post.url }}>{{ post.data.title }}</a></li>
-    {% endFor %}
+    {%- endfor -%}
 </ul>
