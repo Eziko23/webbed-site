@@ -15,8 +15,7 @@ currently learning css and js :3
 - [links/socials](/lib/)
 - [interests](/pages/interests/)
 - [dni list](/dni/)
-- [webrings](/pages/webrings/)
-- [button wall](/pages/buttons/)
+- [all pages](/pages/)
 
 ---
 
