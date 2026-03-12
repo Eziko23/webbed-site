@@ -2,6 +2,7 @@
 layout: default.njk
 title: dont talk to me
 permalink: /dni/
+tags: pages
 ---
 
 # dont talk to me.
