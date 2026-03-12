@@ -4,6 +4,7 @@
 /* actual css */
 .window {
     /* Background/Border */
+    border-radius: 15px;
     background-color: rgba(30, 30, 46, 0.8);
     border-style: solid;
     border-color: #cba6f7;
