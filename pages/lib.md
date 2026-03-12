@@ -16,7 +16,7 @@ my social media/IM links
 
 ## socials
 
-- [wafrn (fedi)](https://app.wafrn.net/blog/funkylevi)
-- [wafrn (bsky)](https://deer.social/profile/ezi.yup.lol)
-- [sharkey](https://booping.synth.download/@notlevi)
+- [wafrn (fedi)](/waf)
+- [wafrn (bsky)](/sky)
+- [sharkey](/sk)
 - [fluxer (funkylevi#5986)](https://web.fluxer.app)
