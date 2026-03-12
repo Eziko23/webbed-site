@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: webrings!
+tags: pages
 ---
 
 # i love webrings!
