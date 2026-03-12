@@ -1,0 +1,11 @@
+---
+layout: default.njk
+title: all pages
+---
+
+# all pages
+
+all the pages on my website
+{%- for post in collections.all -%}
+  <li><a href="{{ all.url }}">{{ all.data.title }}</a></li>
+{%- endfor -%}
