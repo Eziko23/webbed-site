@@ -1,6 +1,7 @@
 ---
 title: interests
 layout: default.njk
+tags: pages
 ---
 
 # interesting projects
