@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: buttons
+tags: pages
 ---
 
 # buttons!!

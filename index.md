@@ -1,6 +1,7 @@
 ---
 layout: home.njk
 title: welcome
+tags: pages
 ---
 
 # welcome!

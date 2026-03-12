@@ -1,6 +1,7 @@
 ---
 layout: blog.njk
 title: blog
+tags: pages
 ---
 
 # welcome to my blog!
