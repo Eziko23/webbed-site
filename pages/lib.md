@@ -2,6 +2,7 @@
 title: links
 layout: default.njk
 permalink: /lib/
+tags: pages
 ---
 
 # links
