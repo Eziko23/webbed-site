@@ -1,0 +1,61 @@
+/* root */
+:root {
+  /* color scheme */
+  color-scheme: light dark;
+  
+  /* light var */
+  --light-window-bg: rgba(230, 233, 239, 0.8);
+  --light-window-border: #eed49f;
+  --light-text: #292c3c;
+  --light-bg-img: url("/assets/bg-light.jpg");
+  
+  /* dark var */
+  --dark-window-bg: rgba(30, 30, 46, 0.8);
+  --dark-window-border: #cba6f7;
+  --dark-text: white;
+  --dark-bg-img: url("/assets/bg.png");
+}
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+/* actual css */
+.window {
+    /* Background/Border */
+    border-radius: light-dark(25px, 0px);
+    background-color: light-dark(var(--light-window-bg), var(--dark-window-bg));
+    border-style: solid;
+    border-color: light-dark(var(--light-window-border), var(--dark-window-border));
+    border-width: 5px;
+    backdrop-filter: blur(4px);
+    padding: 10px 20px 10px;
+    /*
+    margin: auto;
+    width: 60%;
+    height: auto;
+    */
+    max-width: max-content
+}
+
+body {
+    background-image: light-dark(var(--light-bg-img), var(--dark-bg-img));
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-block: 0; min-height: 100vh;
+}
+
+div {
+    font-family: "JetBrains Mono", monospace;
+    color: light-dark(var(--light-text), var(--dark-text))
+    /* text-shadow: 0px 0px 6px #cdd6f4; */
+    max-width: max-content
+}
+
+a:link {
+    color: light-dark(var(--light-text), var(--dark-text));
+}
+
+a:visited {
+    color: light-dark(var(--light-text), var(--dark-text));
+}
