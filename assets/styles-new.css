@@ -7,14 +7,14 @@
   --light-window-bg: rgba(230, 233, 239, 0.8);
   --light-window-border: #eed49f;
   --light-text: #292c3c;
-  --light-bg-img: url("/assets/light.jpg/");
+  --light-bg-img: url("/assets/bg-light.jpg/");
   --light-corner: 25px;
   
   /* dark var */
   --dark-window-bg: rgba(30, 30, 46, 0.8);
   --dark-window-border: #cba6f7;
   --dark-text: white;
-  --dark-bg-img: url("/assets/dark.png/");
+  --dark-bg-img: url("/assets/bg.png/");
   --dark-corner: 0px;
 }
 
