@@ -10,8 +10,7 @@ export const config = {
 };
 
 export default function (eleventyConfig) {
-	eleventyConfig.addPassthroughCopy("**/*.png");
-  eleventyConfig.addPassthroughCopy("**/*.css");
-  eleventyConfig.addPassthroughCopy("**/*.gif");
+	eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy(".well-known");
 };
 
