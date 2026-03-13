@@ -4,10 +4,10 @@
 /* actual css */
 .window {
     /* Background/Border */
-    border-radius: 15px;
-    background-color: rgba(30, 30, 46, 0.8);
+    border-radius: 25px;
+    background-color: rgba(230, 233, 239, 0.8);
     border-style: solid;
-    border-color: #cba6f7;
+    border-color: #eebebe;
     border-width: 3px;
     backdrop-filter: blur(4px);
     padding: 10px 20px 10px;
@@ -20,7 +20,7 @@
 }
 
 body {
-    background-image: url("/assets/bg.png");
+    background-image: url("/assets/bg-light.png");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -30,15 +30,15 @@ body {
 
 div {
     font-family: "JetBrains Mono", monospace;
-    color: white;
-    text-shadow: 0px 0px 6px #cdd6f4;
+    color: #292c3c;
+    /* text-shadow: 0px 0px 6px #cdd6f4; */
     max-width: max-content
 }
 
 a:link {
-    color: white;
+    color: #292c3c;
 }
 
 a:visited {
-    color: white;
+    color: #292c3c;
 }
