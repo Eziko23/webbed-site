@@ -27,5 +27,5 @@ in progress:
 - working light/dark mode via user prefrence (rounding/wallpaper broken)
 - blog post (soon**)
 
-*i hate rss so it might be atom
+*i hate rss so it might be atom  
 **in ~1 month ill release it (no motivation if you couldnt tell (its something cool)) 
