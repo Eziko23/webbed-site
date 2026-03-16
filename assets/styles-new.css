@@ -24,7 +24,7 @@
 /* actual css */
 .window {
     /* Background/Border */
-    border-radius: light-dark(var(--light-corner), var(--dark-corner));
+    border-radius: var(--light-corner);
     background-color: light-dark(var(--light-window-bg), var(--dark-window-bg));
     border-style: solid;
     border-color: light-dark(var(--light-window-border), var(--dark-window-border));
@@ -41,11 +41,14 @@
 
 @media (prefers-color-scheme: dark) {
   body {
-    background-image: url("assets/bg.png");
+    background-image: var(--dark-bg-img);
+  }
+  .window {
+    border-radius: var(--dark-corner)
   }
 }
 body {
-    background-image: url("/assets/bg-light.jpg/");
+    background-image: var(--light-bg-img);
     background-size: cover;
     display: flex;
     justify-content: center;
