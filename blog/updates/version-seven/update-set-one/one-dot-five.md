@@ -1,13 +1,13 @@
 ---
 layout: default.njk
-title: v7.1.4 - overdue update post
-date: 2026-03-10
+title: v7.1.5 - another overdue update post
+date: 2026-03-15
 tags:
     - post
     - update
 ---
 
-# added some important things
+# v7.1.5 - added some important things
 
 additions:
 - light mode (using `light-dark()` css (i hate js))
