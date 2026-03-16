@@ -40,7 +40,7 @@
 }
 
 body {
-    background-image: light-dark(url("/assets/bg-light.jpg/"), url("/assets/bg.png/");
+    background-image: light-dark(var(--light-bg-img), var(--dark-bg-img));
     background-size: cover;
     display: flex;
     justify-content: center;
