@@ -39,8 +39,13 @@
     max-width: max-content
 }
 
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: url("/assets/bg.png/");
+  }
+}
 body {
-    background-image: light-dark(url("/assets/bg-light.jpg/"), url("/assets/bg.png/"));
+    background-image: url("/assets/bg-light.jpg/");
     background-size: cover;
     display: flex;
     justify-content: center;
