@@ -14,7 +14,7 @@ additions:
 - this update post
 - redirects to socials ([/sk](/sk), [/waf](/waf), [/sky](/sky))
 - [credits page](/pages/credits)
-- [test page](/pages/test)
+- [test page](/pages/testing)
 - [an "all pages" page](/pages)
 - [github mirror](https://eziko23/webbed-site)
 
