@@ -16,7 +16,7 @@ additions:
 - [credits page](/pages/credits)
 - [test page](/pages/testing)
 - [an "all pages" page](/pages)
-- [github mirror](https://eziko23/webbed-site)
+- [github mirror](https://github.com/eziko23/webbed-site)
 
 removals:
 - the wallpaper and rounding (no `light-dark()` for images atm, [is planned for css](https://github.com/w3c/csswg-drafts/issues/12513))
