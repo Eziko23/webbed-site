@@ -39,14 +39,7 @@
     max-width: max-content
 }
 
-@media (prefers-color-scheme: dark) {
-  body {
-    background-image: var(--dark-bg-img);
-  }
-  .window {
-    border-radius: var(--dark-corner)
-  }
-}
+
 body {
     background-image: var(--light-bg-img);
     background-size: cover;
@@ -55,7 +48,14 @@ body {
     align-items: center;
     margin-block: 0; min-height: 100vh;
 }
-
+@media (prefers-color-scheme: dark) {
+  body {
+    background-image: var(--dark-bg-img);
+  }
+  .window {
+    border-radius: var(--dark-corner)
+  }
+}
 div {
     font-family: "JetBrains Mono", monospace;
     color: light-dark(var(--light-text), var(--dark-text))
