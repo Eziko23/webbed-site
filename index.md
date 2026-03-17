@@ -20,4 +20,4 @@ currently learning css and js :3
 
 ---
 
-[previous](https://jbc.lol/webrings/ssgring/redirect?slug=funkylevi&way=prev) [[SSGRing!]](https://jbc.lol/webrings/ssgring/) [next](https://jbc.lol/webrings/ssgring/redirect?slug=funkylevi&way=next)  
+[previous](https://webring.bucketfish.me/redirect.html?to=prev&name=funkylevi) [[bucket ring]](https://webring.bucketfish.me/) [next](https://webring.bucketfish.me/redirect.html?to=next&name=funkylevi) • [all webrings](/pages/webrings)
