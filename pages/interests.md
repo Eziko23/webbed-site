@@ -14,3 +14,8 @@ some interesting projects i come across
 - [bliss labs](https://blisslabs.org/)
 - [fluxer](https://fluxer.app/)
 - [glaze window manager](https://gitrthub.com/glzr-io/glazewm)
+- [mango wayland compositor](https://github.com/mangowm/mango)
+- [asahi linux](https://asahilinux.org)
+- [wafrn](https://app.wafrn.net)
+- [synth [dot] download](https://synth.download)
+- [piefed](https://piefed.social)
