@@ -11,7 +11,7 @@ ive made my site in many mediums, including scratch, framer, reglar html/css/js,
 
 ## versions
 - [version seven - current](/)
-- [version six - previous](https://git.gay/funkylevi/funkyV6) (not deployed)
+- [version six - previous](https://git.gay/funkylevi/funkySiteV6) (not deployed)
 - [version five - carrd](https://funkylevi.carrd.co/)
 - [version four - framer](https://eziko23.framer.website/)
 - version three - scratch (lost)
