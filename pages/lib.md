@@ -11,8 +11,8 @@ my social media/IM links
 
 ## important
 
-- [website home](/index.md)
-- [pronouns](https://pronouns.cc/@funkylevi)
+- [website home](/)
+- [pronouns](/pronouns)
 - [direct contact (xmpp)](https://mov.im/contact/funkylevi%40movim.eu)
 
 ## socials
