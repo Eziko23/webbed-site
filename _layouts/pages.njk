@@ -6,6 +6,6 @@ layout: default.njk
 
 <ul>
 {%- for post in collections.pages -%}
-  <li><a href="{{ post.url }}">~/pages/{{ post.data.title }}.md</a></li>
+  <li><a href="{{ post.url }}">~/pages/{{ post.data.title | slugify }}.md</a></li>
 {%- endfor -%}
 </ul>
