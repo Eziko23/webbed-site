@@ -16,6 +16,6 @@ webrings im a part of (probably)
 - [previous](https://webring.bucketfish.me/redirect.html?to=prev&name=funkylevi) [[random]](https://webring.bucketfish.me/redirect.html?to=random&name=funkylevi) [next](https://webring.bucketfish.me/redirect.html?to=next&name=funkylevi)
 - a webring for anyone not horrible
 
-## [fediring](https://fediring.net) (pending)
+## [fediring](https://fediring.net)
 - [previous](https://fediring.net/previous?host=funkylevi.nekoweb.org) [[random]](https://fediring.net/random) [next](https://fediring.net/next?host=funkylevi.nekoweb.org)
 - a webring for people on the fediverse!
