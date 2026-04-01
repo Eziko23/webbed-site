@@ -1,6 +1,7 @@
 ---
 layout: default.njk
 title: credits/inspiration
+tags: pages
 ---
 
 # important stuff
