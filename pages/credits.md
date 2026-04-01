@@ -15,7 +15,7 @@ the inspirations, credits and RIIAtW for my site
 - the code is stored on [git.gay](https://git.gay)
   - and is mirrored to [github](https://github.com)
 - the site is built using [Build Awesome/11ty](https://11ty.dev)
-- the site is tested on [Google Chrome (:neofox_cry:)](https://google.com/chrome) and [LibreWolf](https://librewolf.org) on a laptop
+- the site is tested on [Google Chrome (:neofox_cry:)](https://google.com/chrome) and [LibreWolf](https://librewolf.net) on a laptop
   - this site may not be mobile responsive
 
 ## credits
