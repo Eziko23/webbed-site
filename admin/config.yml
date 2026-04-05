@@ -5,6 +5,7 @@ backend:
   repo: funkylevi/webbed-site
   base_url: https://git.gay/
   api_root: https://git.gay/api/v1
+  app_id: 00e2b9e3-bd6c-4b94-9ba5-6283c26b4831
 
 media_folder: /public/media
 public_folder: /media
