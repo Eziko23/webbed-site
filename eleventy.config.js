@@ -12,5 +12,6 @@ export const config = {
 export default function (eleventyConfig) {
 	eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy(".well-known");
+  eleventyConfig.addPassthroughCopy("admin")
 };
 
