@@ -7,14 +7,14 @@ backend:
   api_root: https://git.gay/api/v1
   app_id: 00e2b9e3-bd6c-4b94-9ba5-6283c26b4831
 
-media_folder: /public/media
-public_folder: /media
+media_folder: /assets
+public_folder: /
 
 collections:
   - name: posts
     label: Posts
     label_singular: Post
-    folder: /content/posts
+    folder: /blog/posts
     fields:
       - { label: Title, name: title, widget: string }
       - { label: Date, name: date, widget: datetime, type: date }
